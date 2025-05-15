@@ -1,4 +1,4 @@
-# Great-Scott's-Basic-Electronics
+![image](https://github.com/user-attachments/assets/b2ad567f-5dbb-42c7-800d-f689de923997)# Great-Scott's-Basic-Electronics
 
 ## Here is the list of trainee who accomplished their task on this playlist:
 
@@ -20,3 +20,8 @@
 | Writu Raj Chakma	| 2203121	| EEE	|  [Link](https://github.com/Writuraj/electronicbasics)  |
 | MD Samiul Islam	| 2203118	| EEE	| [Link]( https://github.com/sami-118/embeddedsystem.git)  |
 | ASHRAFUL HOSEN	| 2207042	| CSE	|  [Link](https://github.com/AshrafulHosen/Course-on-Electronic-basics)  |
+Muttakin Rahman Shoscho	2207061	CSE	‎‪+880 1827‑579500‬	https://github.com/rahman-669	www.linkedin.com/in/muttakin-rahman-94359b1b3	https://github.com/rahman-669?tab=repositories
+K. M. Safkut Reza	2203107	Electrical and Electronic Engineering	01870803606	https://github.com/Safkutreza?tab=repositories	linkedin.com/in/safkut-reza-5a8449285	https://drive.google.com/file/d/1RADD4tkD22IRhTeBMBLVLds03gGAdLud/view?usp=sharing
+![image](https://github.com/user-attachments/assets/f69646d9-a33e-4e4a-97f6-b1dfee88e155)
+
+
