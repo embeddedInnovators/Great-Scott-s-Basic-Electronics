@@ -14,3 +14,4 @@
 | Jawad Ibne Hossen	| 2203020	| EEE	|  [Link](https://github.com/CodeWithJawad-eee/GreatScott-Electronic/tree/main) |
 | Md. Fuad Hasan Hamim	| 2215029	| BME	| [Link]( https://github.com/fuadhasanbme/Electronics) |
 | Shabique Islam	| 2203030	| EEE	| [Link](https://github.com/shabique7/CV/blob/main/Notes%20on%20Electronic%20Basics.pdf)  |
+| Dhruba Jyoti Das	| 2203086	| EEE	| [Link](https://github.com/djdas08/Electronic-Basics-by-Great-Scott)  |
